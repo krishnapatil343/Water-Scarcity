@@ -55,6 +55,8 @@ The project focuses on **Any Location** and can be easily adapted worldwide by c
   - Evapotranspiration (2002-2024)
   - Surface Temperature (2002-2024)
 
+![Image](https://github.com/user-attachments/assets/5597cbcb-b16a-4d2f-aac6-8a19ddcd4183)
+![Image](https://github.com/user-attachments/assets/d07539a0-1c71-4a13-9dac-1d456d8b2018)
 - **Observations**:
   - **Soil Moisture**: High variability with significant peaks and troughs. The fluctuations are likely linked to precipitation patterns and evapotranspiration rates.
   - **Evapotranspiration**: Shows significant fluctuations with no clear increasing or decreasing trend, highlighting the dynamic nature of water transfer between the land and atmosphere.
