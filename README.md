@@ -1,11 +1,13 @@
 # 🌏 Historical Water Scarcity Analysis using Google Earth Engine
+
+
 This project analyses historical water scarcity trends using the **NASA GLDAS-2.1 NOAH Land Surface Model** dataset from **Google Earth Engine**. It visualizes three critical indicators:
 - 📉 **Soil Moisture**
 - 🌤 **Evapotranspiration**
 - 🌡 **Surface Temperature**
 
-The project currently focuses on **Any Loction** but can be easily adapted to any location worldwide by changing the coordinates. 
-
+The project focuses on **Any Location** and can be easily adapted worldwide by changing the coordinates. 
+<img width="1024" alt="Image" src="https://github.com/user-attachments/assets/b81a49ab-1e24-41ff-b28d-484bd3e44a4b" />
 ---
 
 ## 🚀 Features
